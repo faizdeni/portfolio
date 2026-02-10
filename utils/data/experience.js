@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Software QA Intern',
+    company: "Silentmode Sdn Bhd",
+    duration: "(October 2025 - April 2026)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Front Service Crew",
+    company: "The Humble Food Company Cafe",
+    duration: "(January 2022 - September 2022)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "Intern - Network Rollout & Operation Division",
+    company: "Telekom Malaysia Berhad (TM)",
+    duration: "(July 2021 - December 2021)"
   }
 ]
