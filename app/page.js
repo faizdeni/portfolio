@@ -38,3 +38,7 @@ export default async function Home() {
     </div>
   )
 };
+
+<main className="pt-14 sm:pt-16">
+  {/* ...existing code... */}
+</main>

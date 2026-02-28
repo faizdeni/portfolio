@@ -1,14 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor of Information Technology (Hons.) in Software Engineering",
+    duration: "September 2022 - February 2026",
+    institution: "Univeristi Kuala Lumpur Malaysian Institute of Information Technology (UniKL MIIT)",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Diploma in Computer Networking",
+    duration: "June 2019 - December 2021",
+    institution: "Kolej Profesional MARA Indera Mahkota",
   },
 ]
