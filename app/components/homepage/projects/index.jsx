@@ -3,7 +3,10 @@ import ProjectCard from "./project-card";
 
 const Projects = () => {
   return (
-    <div id="projects" className="relative z-50 my-8 md:my-12 lg:my-24 px-4 sm:px-6 lg:px-0">
+    <div
+      id="projects"
+      className="relative z-50 my-8 md:my-12 lg:my-24 px-4 sm:px-6 lg:px-0"
+    >
       <div className="relative z-10 mb-8 md:mb-12">
         <div className="w-[80px] h-[80px] bg-violet-100 rounded-full absolute -top-3 left-0 translate-x-1/2 filter blur-3xl opacity-30"></div>
         <div className="flex items-center justify-start relative">
