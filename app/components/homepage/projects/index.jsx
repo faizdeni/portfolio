@@ -42,10 +42,16 @@ const Projects = () => {
               {/* Corner glow effects */}
               <div className="absolute -top-4 -left-4 md:-top-6 md:-left-6 w-20 h-20 md:w-32 md:h-32 bg-violet-500 rounded-full opacity-0 group-hover:opacity-20 blur-2xl md:blur-3xl transition-opacity duration-700 z-0"></div>
               <div className="absolute -bottom-4 -right-4 md:-bottom-6 md:-right-6 w-20 h-20 md:w-32 md:h-32 bg-cyan-500 rounded-full opacity-0 group-hover:opacity-20 blur-2xl md:blur-3xl transition-opacity duration-700 z-0"></div>
+              
             </div>
+
+            
           ))}
         </div>
       </div>
+        <div className="text-center mt-12 text-gray-400 italic">
+        More Projects Coming Soon!
+        </div>
     </div>
   );
 };
