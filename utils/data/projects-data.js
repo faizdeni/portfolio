@@ -18,6 +18,16 @@ export const projectsData = [
         role: '',
         code: 'https://github.com/faizdeni/building-link-fyp',
         demo: '',
+    },
+    {
+        id: 3,
+        name: 'Simple Weather Web App',
+        description: 'A simple weather web app to display current weather information and forecasts for various locations using the OpenWeatherMap API. (Some data may not be accurate due to API limitations.)',
+        features: ["Location Search, Current Weather Display, Forecast Information"],
+        tools: ['HTML', 'CSS', 'JavaScript', 'OpenWeatherMap API'],
+        role: '',
+        code: 'https://github.com/faizdeni/simplyweather',
+        demo: ['https://simplyweather-peach.vercel.app/'],
     }
 
 
