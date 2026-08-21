@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: "Software Engineer (K-Youth)",
     company: "AirAsia",
-    duration: "(May 2026 - Present)",
+    duration: "(May 2026 - August 2026)",
   },
   {
     id: 2,
